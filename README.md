@@ -43,20 +43,21 @@ A Streamlit-based interactive data analysis tool to explore global trends in obe
 🏗️ Setup Instructions
 1. Clone this repository: git clone https://github.com/SenthilTimu/Nutrition_Paradox
 2. cd nutrition-paradox-dashboard
+3. pip install streamlit pandas streamlit-option-menu mysql-connector-python emoji
 
 📌 Requirements
 * Python 3.7+
 
-MySQL Server
+* MySQL Server
 
-Required Python libraries:
+* Required Python libraries:
 
-streamlit
+  * streamlit
 
-pandas
+  * pandas
 
-streamlit-option-menu
+  * streamlit-option-menu
 
-mysql-connector-python
+  * mysql-connector-python
 
-emoji
+  * emoji
