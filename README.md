@@ -3,42 +3,42 @@
 A Streamlit-based interactive data analysis tool to explore global trends in obesity and malnutrition using SQL queries. This dashboard helps visualize health disparities, compare metrics across countries, and analyze gender- and age-based differences.
 
 🌐 Features
-  📊 Obesity Queries:
+*  📊 Obesity Queries:
   
-  Top 5 regions/countries with highest obesity rates
+*  Top 5 regions/countries with highest obesity rates
   
-  Gender and age group breakdowns
+*  Gender and age group breakdowns
   
-  Country-wise and global obesity trends
+*  Country-wise and global obesity trends
   
-  Consistency and reliability checks using confidence intervals (CI)
+*  Consistency and reliability checks using confidence intervals (CI)
   
-  🍽️ Malnutrition Queries:
+*  🍽️ Malnutrition Queries:
   
-  Top 5 countries by malnutrition
+*  Top 5 countries by malnutrition
   
-  Region and gender comparisons
+*  Region and gender comparisons
   
-  Time-series analysis by country and age group
+*  Time-series analysis by country and age group
   
-  High CI width alert flags for monitoring
+*  High CI width alert flags for monitoring
   
   🔀 Combined Queries:
   
-  Obesity vs malnutrition comparisons
+*  Obesity vs malnutrition comparisons
   
-  Gender and region-wise disparities
+*  Gender and region-wise disparities
   
-  Age-wise trends over time
+*  Age-wise trends over time
 
 🧰 Tech Stack
-  Frontend: Streamlit
+*  Frontend: Streamlit
   
-  Backend: Python + MySQL
+*  Backend: Python + MySQL
   
-  UI Enhancements: streamlit_option_menu, emoji
+*  UI Enhancements: streamlit_option_menu, emoji
   
-  Database: MySQL with two tables: obesity and malnutrition
+*  Database: MySQL with two tables: obesity and malnutrition
 
 🏗️ Setup Instructions
 1. Clone this repository: git clone https://github.com/SenthilTimu/Nutrition_Paradox
